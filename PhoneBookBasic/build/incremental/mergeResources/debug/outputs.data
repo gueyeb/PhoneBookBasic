@@ -1,13 +1,17 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1373769191687 258 44e1bc03e23c38dd87aeae9fe246d90fc0eaac14 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values-sw720dp-land\values.xml
 1373769191687 349 0b3887213ee0608b6a5ca05e611eefde5b0e5d4e C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\menu\main.xml
-1373769191680 343 2fe2b7573908387eb5f35390c910f896d106b0bb C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values-v14\values.xml
-1373769191677 1156 4621f7a23c73577cbf92bf51e5a9316fba725ae2 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values\values.xml
-1373769191666 765 813b266657874ef3237c8042a1b1f4d1eb0d8e8a C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\layout\activity_main.xml
+1373769191687 258 44e1bc03e23c38dd87aeae9fe246d90fc0eaac14 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values-sw720dp-land\values.xml
+1373824397299 12242 7d87f902d3e4a3aa232000001395f68415d6e333 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-mdpi\avatar_pete.jpg
+1373824397289 1461 7ceec3d342cbfe001743733062e29915561359fc C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\layout\phonebook_row.xml
 1373769193039 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1373769191677 1156 4621f7a23c73577cbf92bf51e5a9316fba725ae2 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values\values.xml
+1373769193011 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1373824397291 42683 fd7ca59f48805f89772122c1cfd6e56710bc901d C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-mdpi\avatar_lina.jpg
+1373769193103 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1373769191680 343 2fe2b7573908387eb5f35390c910f896d106b0bb C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values-v14\values.xml
+1373824397291 158697 27cecf69dbbe02346009f2410c4b5cd147aa15bf C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-mdpi\avatar_jenny.jpg
+1373824397290 781 89755b92f148651c327946fdb07d970a04e3bff5 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\layout\activity_main.xml
 1373769191684 329 9e5612e06ea8aa1a079883befaaf2ac044240ce1 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\values-v11\values.xml
 1373769193057 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-xhdpi\ic_launcher.png
-1373769193011 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-mdpi\ic_launcher.png
-1373769193103 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\all\debug\drawable-xxhdpi\ic_launcher.png

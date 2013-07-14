@@ -1,3 +1,5 @@
+package com.app.phonebook.basic;
+
 import android.graphics.Bitmap;
 
 /**

@@ -104,6 +104,26 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="phonebook_row"
+                path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\src\main\res\layout\phonebook_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="avatar_lina"
+                path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\src\main\res\drawable-mdpi\avatar_lina.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avatar_pete"
+                path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\src\main\res\drawable-mdpi\avatar_pete.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avatar_jenny"
+                path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\src\main\res\drawable-mdpi\avatar_jenny.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
         </source>
         <source path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\build\res\rs\debug" />
     </dataSet>

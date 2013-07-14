@@ -4,6 +4,7 @@ import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.widget.ListAdapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -31,7 +32,7 @@ public class MainActivity extends Activity {
                 BitmapFactory.decodeResource(getResources(), R.drawable.avatar_jenny),
                 "Jenny Nguyen", "0913-223-498", "jenny_in_love98@yahoo.com"));
         PhoneBookAdapter adapter = new PhoneBookAdapter(this, listPhoneBook);
-        lvPhone.setAdapter(adapter);
+        lvPhone.setAdapter((ListAdapter) adapter);
     }
 
 
