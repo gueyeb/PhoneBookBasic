@@ -104,11 +104,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhoneBook.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PhoneBook.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PhoneBookBasic/src/main/java/PhoneBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+            <state line="3" column="19" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhoneBookAdapter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PhoneBookBasic/src/main/java/PhoneBookAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="44" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.5165877" vertical-offset="363" max-vertical-offset="1275">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,6 +193,7 @@
       <list>
         <option value="$PROJECT_DIR$/PhoneBookBasic/src/main/java/com/app/phonebook/basic/PhoneBook.java" />
         <option value="$PROJECT_DIR$/PhoneBookBasic/src/main/java/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/PhoneBookBasic/src/main/java/PhoneBookAdapter.java" />
       </list>
     </option>
   </component>
@@ -798,8 +810,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PhoneBookBasic/src/main/java/PhoneBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+        <state line="3" column="19" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PhoneBookBasic/src/main/java/PhoneBookAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="44" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.5165877" vertical-offset="363" max-vertical-offset="1275">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
