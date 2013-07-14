@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\Babacar\AndroidStudioProjects\PhoneBookBasicProject\PhoneBookBasic\src\main\assets" />
+        <source path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Babacar\AndroidStudioProjects\PhoneBookBasicProject\PhoneBookBasic\src\debug\assets" />
+        <source path="C:\Users\Babacar\Documents\GitHub\PhoneBookBasic\PhoneBookBasic\src\debug\assets" />
     </dataSet>
 
 </merger>
